@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name" translatable="false">We\'localize Aforp</string>
+
+    <string name="student">LEARNER</string>
+
+    <string name="visitor">VISITOR</string>
+
+    <string name="employee">EMPLOYEE</string>
+
+    <string name="speaker">SPEAKER</string>
+
+    <string name="itinerary">Itinerary</string>
+
+    <string name="paris">Paris North 2 - Tremblay-en-France</string>
+
+    <string name="address">93290 Tremblay-en-France</string>
+
+    <string name="street">64 avenue de la Plaine de France</string>
+
+    <string name="phone">+33 1 43 11 10 70</string>
+
+    <string name="mail">contact@aforp.fr</string>
+
+    <string name="transport">Getting here</string>
+
+    <string name="bus">Stop at Parc des Expositions then 10 min walk or bus 640</string>
+
+    <string name="bus2">Villiers le Bel, Gonesse, Arnouville and bus 20 stop PN2 commercial area</string>
+
+    <string name="bus3">Access by 4 rue de la belle étoiles - Gonesse</string>
+
+    <string name="aforp_right">AFORP 2021 - All rights reserved</string>
+
+    <string name="aforp_fr">aforp.fr</string>
+
+    <string name="close">Close</string>
+
+    <string name="go">Go</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="building">Building</string>
+
+    <string name="floor">floor</string>
+
+    <string name="room">Room</string>
+
+    <string name="reception">Reception</string>
+
+    <string name="hall">Hall</string>
+
+    <string name="workcoffee">Work Coffee</string>
+
+    <string name="building_cd">Build. C / D</string>
+
+    <string name="parking">Parking</string>
+
+    <string name="delivery">Delivery</string>
+
+    <string name="your_position">Your position</string>
+
+    <string name="your_destination">Your destination</string>
+
+    <string name="destination">Destination</string>
+
+    <string name="ground_floor">DRC</string>
+
+    <string name="title_bottom_sheet_map">Steps</string>
+
+    <string name="title_activity_route" translatable="false">RouteActivity</string>
+
+    <string name="go_back">Go back</string>
+
+    <string name="turn_right">Turn right in</string>
+
+    <string name="turn_left">Turn left in</string>
+
+    <string name="take_the_stairs">Take the stairs</string>
+
+    <string name="go_straight">Go straight in</string>
+
+    <string name="choose_profile">You have chosen the profile</string>
+
+    <string name="choose_destination">Your destination is</string>
+
+    <string name="choose_position">from</string>
+
+    <string name="at">" "</string>
+
+    <string name="ground_floor_label">ground floor</string>
+
+    <string name="from">from</string>
+
+    <string name="access">access</string>
+
+    <string name="pedestrian">pedestrian</string>
+
+    <string name="coffee">coffee</string>
+
+    <string name="motorcycle">motorcycle</string>
+
+    <string name="bicycle">bicycle</string>
+
+    <string name="security">security</string>
+
+    <string name="sanitary">sanitary</string>
+
+    <string name="reprographics">reprographics</string>
+
+    <string name="locker_room">locker room</string>
+
+    <string name="to">to</string>
+
+    <string name="meeting">meeting</string>
+
+    <string name="photocopier">photocopier</string>
+
+    <string name="infirmary">infirmary</string>
+    <string name="multipurpose">multipurpose</string>
+    <string name="staircase">staircase</string>
+    <string name="vers">to</string>
+    <string name="basement">basement</string>
+    <string name="space">space</string>
+    <string name="relaxation">relaxation</string>
+    <string name="collaborator">collaborator</string>
+    <string name="foots">foots</string>
+</resources>

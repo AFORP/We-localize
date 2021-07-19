@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="student" >APPRENANT</string>
+    <string name="visitor" >VISITEUR</string>
+    <string name="employee" >SALARIE</string>
+    <string name="speaker" >INTERVENANT</string>
+
+    <string name="itinerary">Itinéraire</string>
+
+    <string name="paris" >Paris Nord 2 – Tremblay-en-France</string>
+    <string name="address" >93290 Tremblay-en-France</string>
+    <string name="street" >64 avenue de la Plaine de France</string>
+    <string name="phone" >(+33) 01.43.11.10.70</string>
+    <string name="mail" >contact@aforp.fr</string>
+    <string name="transport" >Venir sur le site</string>
+    <string name="bus" >Arrêt Parc des expositions puis 10 min de marche ou bus 640</string>
+    <string name="bus2" >Villiers le Bel, Gonesse, Arnouville et bus 20 arrêt PN2 zone commerciale</string>
+    <string name="bus3" >Accès par le 4 rue de la belle étoile - Gonesse</string>
+    <string name="aforp_right" >AFORP 2021 - Tous droits réservés</string>
+
+    <string name="aforp_fr" >aforp.fr</string>
+
+    <string name="close" >Fermer</string>
+    <string name="go" >Aller</string>
+    <string name="cancel" >Annuler</string>
+
+    <string name="building" >Bâtiment</string>
+    <string name="floor" >Etage</string>
+    <string name="room" >Salle</string>
+
+    <string name="your_position" >Votre position</string>
+    <string name="your_destination" >Votre destination</string>
+
+    <string name="destination" >Destination</string>
+    <string name="ground_floor" >RDC</string>
+
+    <string name="title_bottom_sheet_map" >Etapes</string>
+
+    <string name="go_back">Revenez en arrière</string>
+    <string name="turn_right">Tournez à droite</string>
+    <string name="turn_left">Tourner à gauche</string>
+    <string name="take_the_stairs">Prenez les escaliers</string>
+    <string name="go_straight">Continuez tout droit</string>
+
+    <string name="reception">Accueil</string>
+    <string name="hall">Hall</string>
+    <string name="workcoffee">Work Café</string>
+    <string name="building_cd">Bât. C / D</string>
+    <string name="parking">Parking</string>
+    <string name="delivery">Livraison</string>
+    <string name="choose_profile">Vous avez choisis le profil</string>
+    <string name="choose_destination">Votre destination est</string>
+    <string name="choose_position">en partance de</string>
+    <string name="at">"au "</string>
+    <string name="ground_floor_label">rez de chaussé</string>
+    <string name="from">du</string>
+    <string name="access">accès</string>
+    <string name="pedestrian">piéton</string>
+    <string name="coffee">café</string>
+    <string name="motorcycle">motos</string>
+    <string name="bicycle">vélos</string>
+    <string name="security">sécurité</string>
+    <string name="sanitary">toilette</string>
+    <string name="reprographics">reprographie</string>
+    <string name="locker_room">vestiaire</string>
+    <string name="to">de</string>
+    <string name="meeting">réunion</string>
+    <string name="photocopier">photocopieur</string>
+    <string name="infirmary">infirmerie</string>
+    <string name="multipurpose">polyvalente</string>
+    <string name="staircase">escalier</string>
+    <string name="vers">vers</string>
+    <string name="basement">sous-sol</string>
+    <string name="space">espace</string>
+    <string name="relaxation">détente</string>
+    <string name="collaborator">collaborateurs</string>
+    <string name="foots">pas</string>
+</resources>
